@@ -16,10 +16,12 @@ As a researcher, a parent, and a former software test engineer, I have seen how 
 
 Current Goal: Developing a linter to detect "Logic Inconsistency" between Introduction and Discussion in scientific papers.
 
-# About emikosh  
-I am a researcher and product manager with a background in development management. I recently managed the development of WAIV at U'eyes Design. https://www.ueyesdesign.co.jp/waiv/  
+## About the Founder
+I am a researcher and product manager with a background in development management. 
 
-My role in this project is to define the "Structural Logic" of products. In two companies, I occasionally build prototypes in MATLAB, my focus is on ensuring this tool solves the real-world frustrations of readers and writers.  
+I have developed software prototypes for image processing at two different companies. My role in these products is to define the "Structural Logic" of products. my focus is on ensuring this tool solves the real-world frustrations of readers and writers.  
+
+I recently managed the development of WAIV at U'eyes Design. https://www.ueyesdesign.co.jp/waiv/  
 
 I bring a "User-Centric" perspective to the "Logic-Centric" world of programming. 
 
