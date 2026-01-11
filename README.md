@@ -19,7 +19,7 @@ Current Goal: Developing a linter to detect "Logic Inconsistency" between Introd
 ## About the Founder
 I am a researcher and product manager with a background in development management. 
 
-I have developed software prototypes for image processing at two different companies. My role in these products is to define the "Structural Logic" of products. I recently managed the development of WAIV at U'eyes Design. https://www.ueyesdesign.co.jp/waiv/  
+I have developed software prototypes for image processing at two different companies. My role in these products is to define the "Structural Logic" of products. In addition, I recently managed the development of WAIV in collaboration with U'eyes Design. https://www.ueyesdesign.co.jp/waiv/  
 
 My focus is on ensuring this tool solves the real-world frustrations of readers and writers.  I bring a "User-Centric" perspective to the "Logic-Centric" world of programming. 
 
