@@ -5,14 +5,13 @@ Current Large Language Models (LLMs), like Gemini, are struggling with the inher
 PAD-linter is a project to bring "Software Engineering Rigor" to the world of natural language. We believe that documents should not be just a stream of text, but a decoupled, modular architecture.
 
 ## Why this saves AI Engineers:  
-Reduction of Hallucination: By enforcing logical consistency at the source, we provide high-purity data for AI training and inference.
-
-Structural Clarity: Moving beyond "Prompt Engineering" (which is often just a workaround for poor document design) toward "Document Architecture."
-
-Automatic Logic Validation: Detecting "circular references" or "logic leaps" in research papers and technical specs before they reach the reader—or the AI.
+- Reduction of Hallucination: By enforcing logical consistency at the source, we provide high-purity data for AI training and inference.
+- Structural Clarity: Moving beyond "Prompt Engineering" (which is often just a workaround for poor document design) toward "Document Architecture."
+- Automatic Logic Validation: Detecting "circular references" or "logic leaps" in research papers and technical specs before they reach the reader—or the AI.
 
 ## My Vision  
 As a researcher, a parent, and a former software test engineer, I have seen how "bad design" in documents leads to "bad outcomes" in reality. I am building a Test Suite for Human Logic. 
+
 ## Join the Project  
 I am looking for "1-in-1,000" engineers who are tired of messy documentation and want to build a tool that treats Language as Code.
 
@@ -20,10 +19,8 @@ I am looking for "1-in-1,000" engineers who are tired of messy documentation and
 Collecting test cases from real world. Developing a linter to detect "Logic Inconsistency" between Introduction and Discussion in scientific papers.
 
 ## About the Founder
-I am a researcher and product manager with a background in development management. 
-
-I have developed software prototypes for image processing at two different companies. My role in these products is to define the "Structural Logic" of products. In addition, I recently managed the development of WAIV in collaboration with U'eyes Design. https://www.ueyesdesign.co.jp/waiv/  
-
+I am a researcher and product manager with a background in development management. I have developed software prototypes for image processing at two different companies. My role in these products is to define the "Structural Logic" of products. In addition, I recently managed the development of WAIV in collaboration with U'eyes Design. 
+https://www.ueyesdesign.co.jp/waiv/  
 My focus is on ensuring this tool solves the real-world frustrations of readers and writers.  I bring a "User-Centric" perspective to the "Logic-Centric" world of programming. 
 
 ### My unique perspective combines:  
