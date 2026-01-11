@@ -19,9 +19,9 @@ Current Goal: Developing a linter to detect "Logic Inconsistency" between Introd
 # About emikosh  
 I am a researcher and product manager with a background in development management. I recently managed the development of WAIV at U'eyes Design. https://www.ueyesdesign.co.jp/waiv/  
 
-My role in this project is to define the "Structural Logic" of products. In two companies, I occasionally build prototypes in MATLAB, my focus is on ensuring this tool solves the real-world frustrations of researchers and writers.  
+My role in this project is to define the "Structural Logic" of products. In two companies, I occasionally build prototypes in MATLAB, my focus is on ensuring this tool solves the real-world frustrations of readers and writers.  
 
-I bring a "User-Centric" perspective to the "Logic-Centric" world of programming. I recently managed the update and development of WAIV, a specialized tool for behavioral observation and UX analysis at U'eyes Design.  
+I bring a "User-Centric" perspective to the "Logic-Centric" world of programming. 
 
 ## My unique perspective combines:  
 - Engineering Rigor: Experience in image processing and software product development.  
