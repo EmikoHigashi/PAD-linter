@@ -13,4 +13,9 @@
 - Check if the Subject (The answer) has a corresponding Definition in the context.
 
 ## Reviced text
-'The answer must exist': The battle over Canada's mystery brain disease
+- "There must be an answer:The battle over Canada's mystery brain disease"
+- "An answer must exist: The battle over Canada's mystery brain disease"
+- "The answer has to be something: The battle over Canada's mystery brain disease"
+- "An answer is out there: The battle over Canada's mystery brain disease"
+
+
