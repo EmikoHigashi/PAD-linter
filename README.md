@@ -19,11 +19,9 @@ Current Goal: Developing a linter to detect "Logic Inconsistency" between Introd
 ## About the Founder
 I am a researcher and product manager with a background in development management. 
 
-I have developed software prototypes for image processing at two different companies. My role in these products is to define the "Structural Logic" of products. my focus is on ensuring this tool solves the real-world frustrations of readers and writers.  
+I have developed software prototypes for image processing at two different companies. My role in these products is to define the "Structural Logic" of products. I recently managed the development of WAIV at U'eyes Design. https://www.ueyesdesign.co.jp/waiv/  
 
-I recently managed the development of WAIV at U'eyes Design. https://www.ueyesdesign.co.jp/waiv/  
-
-I bring a "User-Centric" perspective to the "Logic-Centric" world of programming. 
+My focus is on ensuring this tool solves the real-world frustrations of readers and writers.  I bring a "User-Centric" perspective to the "Logic-Centric" world of programming. 
 
 ## My unique perspective combines:  
 - Engineering Rigor: Experience in image processing and software product development.  
@@ -37,7 +35,7 @@ As a researcher who routinely writes and reviews scientific papers and technical
 Finding no such tool, I decided to start this project. My goal is to create the linter I—and many other researchers—sincerely need to prevent "logical spaghetti" and to ensure that the structural integrity of our work matches its intellectual depth.  
 
 # 🌍
-# 日本語
+# 日本語の簡単な説明
 # PAD-linter
 Preventive Architecture of Documents - Linter  
 ## Vision  
