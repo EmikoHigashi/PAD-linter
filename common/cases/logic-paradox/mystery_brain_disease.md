@@ -18,4 +18,4 @@
 - "The answer has to be something: The battle over Canada's mystery brain disease"
 - "An answer is out there: The battle over Canada's mystery brain disease"
 
-
+This is supported by Gemini and Microsoft Copilot 2026-01-11
