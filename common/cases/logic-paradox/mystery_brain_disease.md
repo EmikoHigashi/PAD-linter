@@ -2,7 +2,7 @@
 
 ## Target Text
 > "'The answer cannot be nothing': The battle over Canada's mystery brain disease"
-> (Source: BBC News)
+> (Source: BBC News, https://www.bbc.com/news/articles/c623r47d67lo)
 
 ## The "Bug" (Why this is spaghetti)
 1. **Cognitive Overhead**: The use of double negatives ("cannot be nothing") forces the reader to perform extra logical processing to reach a simple conclusion ("something must exist").
@@ -11,3 +11,6 @@
 ## Detection Rule for PAD-linter
 - Flag double negatives in declarative sentences.
 - Check if the Subject (The answer) has a corresponding Definition in the context.
+
+## Reviced text
+'The answer must exist': The battle over Canada's mystery brain disease
