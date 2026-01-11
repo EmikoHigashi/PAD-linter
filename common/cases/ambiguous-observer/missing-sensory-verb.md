@@ -2,7 +2,7 @@
 
 ## Target Text
 > "Many as soon as they reached the emergency beds... direct shots to the heads of the young people, to their hearts as well. Many of them didn't even make it to the hospital."
-> (Source: BBC News - Gaza hospital coverage)
+> (Source: BBC News - Gaza hospital coverage, https://www.bbc.com/news/articles/cm2jek15m8no)
 
 ## The "Bug" (Logical Ambiguity)
 1. **Implicit Observer**: The phrase "direct shots to the heads..." lacks a verb or an observer. It is unclear if the speaker *witnessed* the shooting or is *inferring* the cause from the wounds on the beds.
