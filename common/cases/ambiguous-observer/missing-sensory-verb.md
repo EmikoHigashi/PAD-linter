@@ -12,7 +12,9 @@
 ## Revised Text (Architecturally Sound)
 To clarify the source of the information and the logical flow:
 
-> "Many as soon as they reached the emergency beds. (pause) Direct shots to the heads of the young people, to their hearts as well. Many of them didn't even make it to the hospital."
+> "Many as soon as they reached the emergency beds (pause) We found direct shots to the heads of the young people, to their hearts as well. Many of them didn't even make it to the hospital."
+
+> Many patients reached the emergency room showing signs of **what appeared to be** direct shots to the head and heart. It was clear to the medical staff that many didn't even make it to the hospital alive.
 
 **Why this is better:**
 - **Explicit Source**: It clarifies that the "direct shots" are an observation made upon reaching the beds.
