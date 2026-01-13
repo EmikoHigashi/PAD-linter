@@ -19,9 +19,13 @@ I am looking for "1-in-1,000" engineers who are tired of messy documentation and
 Collecting test cases from real world. Developing a linter to detect "Logic Inconsistency" between Introduction and Discussion in scientific papers.
 
 ## About the Founder
-I am a researcher and product manager with a background in development management. I have developed software prototypes for image processing at two different companies. My role in these products is to define the "Structural Logic" of products. In addition, I recently managed the development of WAIV in collaboration with U'eyes Design. 
-https://www.ueyesdesign.co.jp/waiv/  
-My focus is on ensuring this tool solves the real-world frustrations of readers and writers.  I bring a "User-Centric" perspective to the "Logic-Centric" world of programming. 
+I am a researcher and product manager with a background in **human cognition and neuroscience**. My work focuses on the intersection of biological logic and user experience, treating linguistic ambiguity as a structural bug that requires precise debugging.
+
+- **Research & Background**: My academic interests and publications are available on [researchmap](https://researchmap.jp/emikoshishido?lang=en).
+- **Product Vision**: I have developed image-processing software prototypes for multiple companies, specializing in defining the **"Structural Logic"** of complex systems. 
+- **Recent Work**: I managed the development of [WAIV](https://www.ueyesdesign.co.jp/waiv/) in collaboration with U'eyes Design, focusing on high-level UI/UX and cognitive load.
+
+My mission with **PAD-linter** is to bridge the gap between "Logic-Centric" programming and "User-Centric" communication. I bring a researcher’s rigor and a product manager’s practicality to solve real-world frustrations in human-to-human and human-to-AI interaction.
 
 ### My unique perspective combines:  
 - Engineering Rigor: Experience in research and development.  
