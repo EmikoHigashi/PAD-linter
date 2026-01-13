@@ -38,6 +38,9 @@ As a researcher who routinely writes and reviews scientific papers and technical
 
 Finding no such tool, I decided to start this project. My goal is to create the linter I—and many other researchers—sincerely need to prevent "logical spaghetti" and to ensure that the structural integrity of our work matches its intellectual depth.  
 
+---
+*Supported by Google Gemini: A partner in debugging the logical structure of human language.*
+
 # 🌍
 # 日本語の簡単な説明
 # PAD-linter
