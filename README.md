@@ -10,7 +10,7 @@ PAD-linter is a project to bring "Software Engineering Rigor" to the world of na
 - Automatic Logic Validation: Detecting "circular references" or "logic leaps" in research papers and technical specs before they reach the reader—or the AI.
 
 ## My Vision  
-As a researcher, a parent, and a former software test engineer, I have seen how "bad design" in documents leads to "bad outcomes" in reality. I am building a Test Suite for Human Logic. 
+As a researcher, a parent, and a former software engineer, I have seen how "bad design" in documents leads to "bad outcomes" in reality. I am building a Test Suite for Human Logic. 
 
 ## Join the Project  
 I am looking for "1-in-1,000" engineers who are tired of messy documentation and want to build a tool that treats Language as Code.
