@@ -1,6 +1,6 @@
 # PAD-linter (Preventive Architecture of Documents Linter)
 Why PAD-linter? — Solving the "Spaghetti Language" Problem  
-Current Large Language Models (LLMs), like Gemini, are struggling with the inherent "logic debt" found in human-written natural language. Even the most advanced AIs are often forced to compensate for disorganized, tightly-coupled, and inconsistent document structures.
+Current Large Language Models (LLMs) are struggling with the inherent "logic debt" found in human-written natural language. Even the most advanced AIs are often forced to compensate for disorganized, tightly-coupled, and inconsistent document structures.
 
 PAD-linter is a project to bring "Software Engineering Rigor" to the world of natural language. We believe that documents should not be just a stream of text, but a decoupled, modular architecture.
 
