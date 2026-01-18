@@ -1,6 +1,6 @@
 # Case study: Undefined Entity Reference
 
-## Target Text
+## Target Text  
 > "The US Department of Agriculture first promoted the food pyramid in 1992... Every five years, HHS and the USDA update the dietary guidelines."
 > (Source: CNN Health, 2026, https://edition.cnn.com/2026/01/08/health/what-to-eat-experts-dietary-guidelines-wellness)
 
