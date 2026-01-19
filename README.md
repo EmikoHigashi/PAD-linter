@@ -4,6 +4,8 @@ Current Large Language Models (LLMs) are struggling with the inherent "logic deb
 
 PAD-linter is a project to bring "Software Engineering Rigor" to the world of natural language. We believe that documents should not be just a stream of text, but a decoupled, modular architecture.
 
+**--- I am a domain expert. Contributors (coders) are welcome! ---**
+
 ## Why this saves AI Engineers and Users:
 
 - **Reduction of Hallucination**: By enforcing logical consistency at the source, we provide high-purity data for AI training and inference.
@@ -38,7 +40,7 @@ My mission with **PAD-linter** is to bridge the gap between "Logic-Centric" prog
 ### Why I Started This Project  
 As a researcher who routinely writes and reviews scientific papers and technical documents, I have long searched for a "Document Linter" that can validate logical architecture beyond simple grammar checks.  
 
-Finding no such tool, I decided to start this project. My goal is to create the linter I—and many other researchers—sincerely need to prevent "logical spaghetti" and to ensure that the structural integrity of our work matches its intellectual depth.  
+Finding no such tool, I decided to start this project. My goal is to create the linter I—and many other researchers—sincerely need to prevent "logical spaghetti" and to ensure that the structural integrity of our work matches its intellectual depth. 
 
 ---
 *Supported by Google Gemini: A partner in debugging the logical structure of human language.*
